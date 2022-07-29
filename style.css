@@ -6,3 +6,7 @@ body {
     filter: brightness(45%);
     position: relative;
 }
+
+.d-flex {
+    color: beige;
+}
